@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HogwartsView/static/css/main.a8dd73aa.css",
+    "main.css": "/HogwartsView/static/css/main.1dcba2bc.css",
     "main.js": "/HogwartsView/static/js/main.07b722f2.js",
     "static/js/453.8ab44547.chunk.js": "/HogwartsView/static/js/453.8ab44547.chunk.js",
     "index.html": "/HogwartsView/index.html",
-    "main.a8dd73aa.css.map": "/HogwartsView/static/css/main.a8dd73aa.css.map",
+    "main.1dcba2bc.css.map": "/HogwartsView/static/css/main.1dcba2bc.css.map",
     "main.07b722f2.js.map": "/HogwartsView/static/js/main.07b722f2.js.map",
     "453.8ab44547.chunk.js.map": "/HogwartsView/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8dd73aa.css",
+    "static/css/main.1dcba2bc.css",
     "static/js/main.07b722f2.js"
   ]
 }
