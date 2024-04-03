@@ -38,14 +38,11 @@ Clone the repository:
 ```sh
     git clone https://github.com/Heatszy/HogwartsView.git
 ```
-Navigate into the project directory: 
-```sh
-    cd frontend
-```
+Navigate into the project directory
+
 Install the project dependencies:
 ```sh
     npm install
-    npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
 ```
 Launch the project
 ```sh
