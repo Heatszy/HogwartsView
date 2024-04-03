@@ -101,16 +101,10 @@ body {
 }
 
 
-@media (max-width: 768px) {
-  .students {
-    grid-template-columns: repeat(2, 1fr); 
-  }
-}
+
 
 @media (max-width: 480px) {
-  .students {
-    grid-template-columns: 1fr; 
-  }
+ 
 }
 
 
@@ -135,10 +129,37 @@ body {
 
 .students{
   display:grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 20px;
 }
 
 .icon-calendar{
   position:absolute;
   top:80%;
 }
+
+@media (max-width: 768px) {
+  .name, .description {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .name, .description {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 968px) {
+  .students {
+    grid-template-columns: 1fr;
+  }
+
+}
+@media (max-width: 680px) {
+
+  .content{
+    flex-direction:column;
+  }
+}
+
